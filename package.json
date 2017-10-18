@@ -1,0 +1,94 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "pil-media-crop-native",
+        "escapedName": "pil-media-crop-native",
+        "name": "pil-media-crop-native",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/obezaudin/Documents/memundo"
+    ]
+  ],
+  "_from": "@ionic-native/crop@latest",
+  "_id": "@ionic-native/crop@4.3.2",
+  "_inCache": true,
+  "_location": "/@ionic-native/crop",
+  "_nodeVersion": "8.2.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/crop-4.3.2.tgz_1508311681538_0.3905524965375662"
+  },
+  "_npmUser": {
+    "name": "ihadeed",
+    "email": "ibby@zyra.ca"
+  },
+  "_npmVersion": "5.3.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@ionic-native/crop",
+    "scope": "@ionic-native",
+    "escapedName": "@ionic-native%2fcrop",
+    "name": "@ionic-native/crop",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native/crop/-/crop-4.3.2.tgz",
+  "_shasum": "7028b6af709b792acf9158f1ec7d115821343418",
+  "_shrinkwrap": null,
+  "_spec": "@ionic-native/crop",
+  "_where": "/home/obezaudin/Documents/memundo",
+  "author": {
+    "name": "ionic"
+  },
+  "bugs": {
+    "url": "https://github.com/ionic-team/ionic-native/issues"
+  },
+  "dependencies": {},
+  "description": "Ionic Native - Native plugins for ionic apps",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-lVl7J5GimyfcYkbNyFBQGnAGRgmgPmn5tg1WyuJPLDDA5D+pbcteR5z55NCPMTGQ+GeMU/dCPKKi+TE45H5bXA==",
+    "shasum": "7028b6af709b792acf9158f1ec7d115821343418",
+    "tarball": "https://registry.npmjs.org/@ionic-native/crop/-/crop-4.3.2.tgz"
+  },
+  "homepage": "https://github.com/ionic-team/ionic-native#readme",
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "ihadeed",
+      "email": "ibby@zyra.ca"
+    },
+    {
+      "name": "maxlynch",
+      "email": "max@ionic.io"
+    },
+    {
+      "name": "ionicjs",
+      "email": "hi@ionicframework.com"
+    }
+  ],
+  "module": "index.js",
+  "name": "@ionic-native/crop",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "@ionic-native/core": "^4.2.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionic-team/ionic-native.git"
+  },
+  "typings": "index.d.ts",
+  "version": "4.3.2"
+}
